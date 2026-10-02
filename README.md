@@ -1,2 +1,2 @@
-# Pico Engine Mods Support
-- Check here to see which mod folders are compatible with Pico Engine
+# Mods Support
+- This repository is for Pico Engine mods and other Pico Engine Mods
